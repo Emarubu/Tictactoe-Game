@@ -1,7 +1,7 @@
 Tictactoe Game
 
 
-Welcome to the readme file for our Tic Tac Toe game development code using JavaScript, HTML, and CSS! This project is a simple implementation of the classic Tic Tac Toe game in a web browser.
+Welcome to the readme file for my Tic Tac Toe game development code using JavaScript, HTML, and CSS! This project is a simple implementation of the classic Tic Tac Toe game in a web browser.
 
 
 The game itself consists of a 3x3 grid with a pair of players implementing turns registering their symbols (X and O) in the cells that are vacant. The game concludes when one of the players gets three of their symbols in the same row either vertically or horizontally or diagonally, or once all the cells have been filled without any player attaining three in the same row.
@@ -10,7 +10,7 @@ HTML5
 CSS3
 JavaScript
 
-Game Features
+Game Features:
 Two players can play the game (Player 1 and Player 2).
 The game will automatically switch between Player 1 and Player 2 after each turn.
 The game will automatically detect and display the winner of the game or declare it a draw if there are no more moves left.
@@ -39,4 +39,4 @@ This project is open for contributions. If you want to contribute to this projec
 
 
 
-Author : Esther Marubu.
+Authors : Esther Marubu.
