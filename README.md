@@ -37,8 +37,7 @@ This project is open for contributions. If you want to contribute to this projec
 5)Submit a pull request with a detailed description of your change
 
 
-https://github.com/Emarubu/Tictactoe-Game/issues/1#issue-1666165400
-
+![landing page updated](https://user-images.githubusercontent.com/107046384/231735862-19bd2abc-0317-40d5-9855-f307fe2fff90.png)
 
 
 
