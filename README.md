@@ -1,4 +1,6 @@
 Tictactoe Game
+
+
 Welcome to the readme file for our Tic Tac Toe game development code using JavaScript, HTML, and CSS! This project is a simple implementation of the classic Tic Tac Toe game in a web browser.
 
 The 
@@ -34,6 +36,8 @@ This project is open for contributions. If you want to contribute to this projec
 4)Push to your branch.
 5)Submit a pull request with a detailed description of your change
 
+
+https://github.com/Emarubu/Tictactoe-Game/issues/1#issue-1666165400
 
 
 
